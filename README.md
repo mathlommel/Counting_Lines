@@ -20,7 +20,8 @@ In this project, we propose three different architectures:
 
 All strategies, along with the training results, are documented in the notebook and summarized in the PDF file included in the repository (the project slides).
 
----
+##
+
 This project was developed entirely using TensorFlow.
 
 -------------------
